@@ -161,15 +161,6 @@ baseline: spec
         baseline: 'FileTree'
         with: [ spec repository: 'github://dalehenrich/filetree:pharo2.0/repository' ] ].
   spec
-    for: #'pharo3.x'
-    do: [ 
-      spec
-        package: 'Metacello-Platform'
-        with: [ spec file: 'Metacello-Platform.pharo20' ].
-      spec
-        baseline: 'FileTree'
-        with: [ spec repository: 'github://dalehenrich/filetree:pharo3.0/repository' ] ].
-  spec
     for: #'squeak'
     do: [ 
       spec
