@@ -4,7 +4,7 @@ env:
    - ST=Pharo-1.4
    - ST=Pharo-2.0
    - ST=Squeak-4.4
-   - ST=GemStone-3.1.0.2
+   - ST=GemStone-3.1.0.3
 
    - ST=PharoCore-1.1
    - ST=PharoCore-1.2
@@ -16,6 +16,7 @@ env:
    - ST=GemStone-2.4.5
    - ST=GemStone-2.4.5.1
    - ST=GemStone-3.0.1
+   - ST=GemStone-3.1.0.2
 
 install:
    - export PROJECT_HOME="$(pwd)"
