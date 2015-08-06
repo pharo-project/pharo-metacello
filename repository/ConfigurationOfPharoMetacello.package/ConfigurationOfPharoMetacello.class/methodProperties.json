@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "ChristopheDemarey 8/5/2015 16:39",
+		"baseConfigurationClassIfAbsent:" : "ChristopheDemarey 8/5/2015 16:39",
+		"ensureMetacello" : "ChristopheDemarey 8/5/2015 16:39",
+		"ensureMetacelloBaseConfiguration" : "ChristopheDemarey 8/5/2015 16:39",
+		"isMetacelloConfig" : "ChristopheDemarey 8/5/2015 16:39",
+		"load" : "ChristopheDemarey 8/5/2015 16:39",
+		"project" : "ChristopheDemarey 8/5/2015 16:39",
+		"validate" : "ChristopheDemarey 8/5/2015 16:39" },
+	"instance" : {
+		"customProjectAttributes" : "ChristopheDemarey 8/5/2015 16:39",
+		"pharo50:" : "ChristopheDemarey 8/6/2015 17:55",
+		"project" : "ChristopheDemarey 8/5/2015 16:39" } }
