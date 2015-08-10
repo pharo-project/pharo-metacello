@@ -94,7 +94,7 @@ install:
    - unzip -q builderCI.zip
    - cd dalehenrich-builderCI*
    - source build_env_vars
-   - ln -s $PROJECT_HOME $GIT_PATH
+   - ln -s $PROJECT_HOME $GIT_PATH/metacello-work
    - ./build_image.sh
 
 script: $PROJECT_HOME/tests/testTravisCI.sh  -verbose
