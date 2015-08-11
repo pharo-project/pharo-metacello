@@ -10,4 +10,4 @@ The pharo branch aims
 ###TravisCI Status
 **master branch**: [![Build Status](https://secure.travis-ci.org/pharo-project/pharo-metacello.png?branch=master)](http://travis-ci.org/pharo-project/pharo-metacello)
 
-**pharo branch**: [![Build Status](https://secure.travis-ci.org/pharo-project/pharo-metacell.png?branch=pharo)](http://travis-ci.org/pharo-project/pharo-metacello)
+**pharo branch**: [![Build Status](https://secure.travis-ci.org/pharo-project/pharo-metacello.png?branch=pharo)](http://travis-ci.org/pharo-project/pharo-metacello)
